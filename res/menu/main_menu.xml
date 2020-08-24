@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/save"
+        android:title="Save"
+        android:icon="@drawable/save"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/power"
+        android:title="Power"
+        android:icon="@drawable/power"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/setting"
+        android:title="Setting"
+        android:icon="@drawable/setting"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/about"
+        android:title="About" />
+
+</menu>
